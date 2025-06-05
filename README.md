@@ -38,6 +38,7 @@ Backend/
 ```bash
 git clone https://github.com/Zahir-Seid/Simple-Task-Manager
 cd Simple-Task-Manager
+cd Backend
 ```
 
 2. **Create a virtual environment (optional but recommended) and install dependencies**:
